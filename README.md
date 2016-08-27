@@ -12,6 +12,8 @@ Additionally, as the content pack grows, developers may be exposed to libraries 
 
 #### Bootstrap must be loaded before JQuery and any subsequent JQuery extensions.
 
+#### Sass [http://sass-lang.com/] is a great tool for managing custom stylesheets. Extended syntax features make it much easier to manage much larger stylesheets and greatly encourages happier pixel pushing
+
 ### CSS
 Bootstrap: CSS files - http://getbootstrap.com/ [Bootstrap JavaScript Required]
 
