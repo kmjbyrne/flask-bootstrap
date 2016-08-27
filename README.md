@@ -17,8 +17,15 @@ Bootstrap: CSS files - http://getbootstrap.com/ [Bootstrap JavaScript Required]
 
 
 ### JavaScript
-JQuery: feature-rich library - http://jquery.com/
-MomentJS: Date/Time library - http://momentjs.com/
-Bootstrap: JavaScript files - http://getbootstrap.com/ [Bootstrap CSS Required]
-JQueryUI: Pretty awesome UI interaction feature library - http://jqueryui.com/
-Bootstrap Date Picker: ------
+JQuery: feature-rich library 
+http://jquery.com/
+
+MomentJS: Date/Time library 
+http://momentjs.com/
+
+Bootstrap: JavaScript files
+http://getbootstrap.com/ [Bootstrap CSS Required]
+
+JQueryUI: Pretty awesome UI interaction feature library
+http://jqueryui.com/
+
