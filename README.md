@@ -1,4 +1,4 @@
-# flask-fundamentum
+# flask-bootstrap
 
 [Publication Revision 1]
 
